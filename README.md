@@ -9,3 +9,5 @@ unzip master.zip
 
 2014122901  none  
 
+3.File Introduction  
+mobile and smartphone dir are mobile_version.  
