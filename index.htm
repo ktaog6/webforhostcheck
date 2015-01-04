@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Resume Website Template | Home :: w3layouts</title>
+	<title>Resume Of John Deo</title>
 	<script src="./js/jquery.min.js"> </script>
 	<link href="./css/bootstrap.css" rel='stylesheet' type='text/css' />
 	<link href="./css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -85,27 +85,38 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					 lorem quis bibendum auctor,nisi elit consequat ipsum,nec sagittis sem nibh id elit.Duis.</p></span>
 					 
 			  <div class="years">	 
-				<h4><b>2009</b></h4>
-				 <span><h4>Project Manager Web Center</h4></span>
-				 <p><i>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-					lorem quis bibendum auctor,nisi elit consequat ipsum,nec sagittis sem nibh id elit.Duis.</i></p>
+				<h4><b>2008</b></h4>
+				 <span><h4>Education:</h4></span>
+                 <p><i>
+                     Bachelor's Degree in Computer Science</br>
+                     My Dear Technical College, Carlisle, MA</br>
+			    </i></p>
 			  </div> 
 				
 			  <div class="years">	 		
 				 <h4><b>2012</b></h4>
-				 <span><h4>Manager Delta Coders</h4></span>
-				 <p><i>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-					lorem quis bibendum auctor,nisi elit consequat ipsum,nec sagittis sem nibh id elit.Duis.</i></p>
+				 <span><h4>Suzlon Software Services, Carlisle, MA</h4></span>
+				 <p><i>
+Handled PHP backend development for dynamic database driven website</br>
+Implemented, prepared, executed and installed support to assure quality system changes</br>
+Troubleshot problems with PHP and other web technologies</br>
+Designed, developed, coded, tested and debugged system requirements for the purpose of conversions and development projects</br>
+Communicated with clients to meet up with their requirements</br>
+Performed other related tasks under the instructions of a senior PHP programmer</br>
+                </i></p>
 			  </div> 
 					
 			   <div class="years">	 	
 				 <h4><b>2013</b></h4>
-				 <span><h4>Owner Alternative Labs</h4></span>
-				 <div class="labs">
-					 <p><i>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-						lorem quis bibendum auctor,nisi elit consequat ipsum,nec sagittis sem nibh id elit.Duis.
-						sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec teltus</i></p>
-			     </div>
+				 <span><h4>Vulture Solutions Inc., Carlisle, MA</h4></span>
+                 <p><i>
+Keeping track of website visits, updating new content displays on websites</br>
+Modifying and extending open source applications like CMS Made Simple, Joomla, Magento and SugarCRM</br>
+Developing and creating PHP MySQL applications as per the specifications</br>
+Performing the responsibilities of implementing and hosting of systems on a web server</br>
+Coordinating with team members in developing database structure</br>
+Testing and analyzing programming projects and reporting the same to the programming manager</br>
+                 </i></p>
 			  </div>
 				 <a class="arrow scroll" href="#skills"><span> </span></a>
 		  </div>
